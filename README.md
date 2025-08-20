@@ -8,7 +8,7 @@ It removes the need for centralized platforms (Airbnb, Booking.com) by holding f
 The booking process is **transparent, secure, and tamper-proof**, with refund guarantees for guests in case of cancellations or no-shows.
 
 ### ✅ Key Features 
-
+ 
 - **Slot-based bookings:** Hosts create available stay slots (check-in, check-out, price, cancel deadline). 
 - **Guest booking:** Guests pay directly into the contract to secure a slot. 
 - **Escrow system:** Funds are held in the contract until conditions are met. 
