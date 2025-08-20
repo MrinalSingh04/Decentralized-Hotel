@@ -1,4 +1,4 @@
-# 🏨 Decentralized Hotel/Hostel Booking Contract
+# 🏨 Decentralized Hotel Smart Contract
 
 ## 📌 What
 
