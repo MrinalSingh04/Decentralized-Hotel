@@ -13,7 +13,7 @@ The booking process is **transparent, secure, and tamper-proof**, with refund gu
 - **Guest booking:** Guests pay directly into the contract to secure a slot.
 - **Escrow system:** Funds are held in the contract until conditions are met. 
 - **Guest protection:**
-  - Guest can cancel before the deadline for a full refund.
+  - Guest can cancel before the deadline for a full refund. 
   - If host cancels → full refund to guest.
   - If host fails to provide stay (no check-in confirmed), refund auto-available after grace period.
 - **Host protection:**
