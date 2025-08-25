@@ -10,7 +10,7 @@ The booking process is **transparent, secure, and tamper-proof**, with refund gu
 ### ✅ Key Features  
  
 - **Slot-based bookings:** Hosts create available stay slots (check-in, check-out, price, cancel deadline). 
-- **Guest booking:** Guests pay directly into the contract to secure a slot.  
+- **Guest booking:** Guests pay directly into the contract to secure a slot.   
 - **Escrow system:** Funds are held in the contract until conditions are met.   
 - **Guest protection:**
   - Guest can cancel before the deadline for a full refund.  
